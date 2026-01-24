@@ -1,5 +1,5 @@
 ## 👋 Hey!
-I’m a new Devolper im working on a Series and Movie Tracker.And other Projects<br>
+I’m a new Devolper im working on a Series and Movie Tracker. Im Learning [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)  and reverse engineering<br>
 
 ---
 
@@ -34,11 +34,18 @@ A Page for Linups for 5 Different Agents and all Maps with close to all their ne
 
 ---
 
-## 📂 Project 4
+## 📂 Project 4 - Main
 **Series and Movie Tracker**  
 A Place where you can Track your Movies / Series you are watching, want to watch or Completed
 
 ---
 
+## 📂 Project 5  
+**Lyrics Getter**  
+Get exiting Lyrics for mp3 files which were uploaded on lyricsify for Songs which were released on Spotify or other Music platforms
+
+---
+
 ## ℹ️ Info
-My Websites will be Released via Github as a test and later as a normal by standing Website.
+My Websites will be Released via Github as a test and later as a normal by standing Website.<br>
+The Programs will be released as a Open Source Software on my Github
