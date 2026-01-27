@@ -23,7 +23,7 @@ A Place where you can search for Websites and Mods which are recommend for getti
 ---
 
 ## 📂 Project 2
-**Polisches Sheet**  
+**Politisches Sheet**  
 A Place where you can Inform yourself about Politic ideas and idologies. When and where they happend.
 
 ---
@@ -34,7 +34,7 @@ A Page for Linups for 5 Different Agents and all Maps with close to all their ne
 
 ---
 
-## 📂 Project 4 - Main
+## 📂 Project 4 - Currently Working on
 **Series and Movie Tracker**  
 A Place where you can Track your Movies / Series you are watching, want to watch or Completed
 
