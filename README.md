@@ -10,42 +10,13 @@ I’m a new Devolper im working on a Series and Movie Tracker. Im Learning [![C+
 ![Pyhton](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-## 📂 Projects
-Rn i have 5 Projects. 4 of them are complete but they will be extended when my Main project is finished / on a level where im happy with it.<br>
-
----
-
-## 📂 Project 1
-**Mod.Menu**  
-A Place where you can search for Websites and Mods which are recommend for gettings Mods / getting a better experience.
+##  📅 Updates
+For all My Project are happening about each month - this only counts if the Project is worked on at the moment and not finsished
 
 ---
-
-## 📂 Project 2
-**Politisches Sheet**  
-A Place where you can Inform yourself about Politic ideas and idologies. When and where they happend.
-
----
-
-## 📂 Project 3
-**Lineups for Valorant**  
-A Page for Linups for 5 Different Agents and all Maps with close to all their needed utlity. The Linups have Minmaps and A YT Video how to perform them.
-
----
-
-## 📂 Project 4 - Currently Working on
-**Series and Movie Tracker**  
-A Place where you can Track your Movies / Series you are watching, want to watch or Completed
-
----
-
-## 📂 Project 5  
-**Lyrics Getter**  
-Get exiting Lyrics for mp3 files which were uploaded on lyricsify for Songs which were released on Spotify or other Music platforms
-
----
-
+##  📂 Projects
+I have many Projects till the begining really help full are 7 at them Moment.<br>
+I have Projects from Valorant Lineups to Idiologies to a Launcher where you can start one cheat of all cheats you have installed and view data about them.
 ## ℹ️ Info
 My Websites will be Released via Github as a test and later as a normal by standing Website.<br>
 The Programs will be released as a Open Source Software on my Github
