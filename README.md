@@ -15,7 +15,7 @@ For all My Project are happening about each month - this only counts if the Proj
 
 ---
 ##  📂 Projects
-I have many Projects till the begining really help full are 7 at them Moment.<br>
+I have many projects. So far, I have created seven projects.<br>
 I have Projects from Valorant Lineups to Idiologies to a Launcher where you can start one cheat of all cheats you have installed and view data about them.
 ## ℹ️ Info
 My Websites will be Released via Github as a test and later as a normal by standing Website.<br>
